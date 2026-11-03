@@ -1,0 +1,6 @@
+{
+  "name": "FLAVO - Hyperlocal Food Delivery Bengaluru",
+  "description": "Hyperlocal food delivery across Bengaluru with real-time live order tracking, iconic restaurants, and instant delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
